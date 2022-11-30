@@ -1,0 +1,8 @@
+body{height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(to right,red,rgb(149, 93, 102));}
+
+    input{border-radius: 18px;}
